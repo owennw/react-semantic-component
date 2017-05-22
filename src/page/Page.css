@@ -1,0 +1,18 @@
+.page
+  margin: 0 50px
+  width: 1280px
+
+.header
+  margin-bottom: 30px
+  color: blue
+  
+  h1
+    color: #444
+
+.sideHeader
+  float: right
+  color: red
+
+.body
+  color: green
+
